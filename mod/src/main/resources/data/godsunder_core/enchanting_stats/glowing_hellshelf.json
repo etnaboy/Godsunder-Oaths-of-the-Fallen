@@ -1,0 +1,11 @@
+{
+	"block": "godsunder_core:glowing_hellshelf",
+	"stats": {
+		"maxEterna": 30,
+		"eterna": 2,
+		"quanta": 2,
+		"arcana": 4,
+		"rectification": 0,
+		"clues": 0
+	}
+}
