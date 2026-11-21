@@ -1,0 +1,11 @@
+{
+	"block": "godsunder_core:sightshelf",
+	"stats": {
+		"maxEterna": 0,
+		"eterna": 0,
+		"quanta": 0,
+		"arcana": 0,
+		"rectification": 0,
+		"clues": 1
+	}
+}

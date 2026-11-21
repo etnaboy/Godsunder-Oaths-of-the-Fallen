@@ -1,0 +1,11 @@
+{
+	"block": "godsunder_core:crystal_seashelf",
+	"stats": {
+		"maxEterna": 30,
+		"eterna": 2,
+		"quanta": 4,
+		"arcana": 2,
+		"rectification": 0,
+		"clues": 0
+	}
+}

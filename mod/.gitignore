@@ -1,0 +1,13 @@
+# Gradle / build output
+build/
+run/
+run-data/
+.gradle/
+out/
+
+# IDE
+.idea/
+*.iml
+.classpath
+.project
+.settings/
