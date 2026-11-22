@@ -27,6 +27,12 @@ minecraft {
 
 repositories {
     maven {
+        url = 'https://maven.minecraftforge.net/'
+        content {
+            includeGroup "net.minecraftforge"
+        }
+    }
+    maven {
         url = 'https://www.cursemaven.com'
         content { includeGroup 'curse.maven' }
     }
